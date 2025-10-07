@@ -61,6 +61,6 @@ int main() {
     compareAges(s1, s2);
 
     return 0;
-}
+} 
 
 
